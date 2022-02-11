@@ -1,20 +1,8 @@
 this edit is complete 80%
-<<<<<<< Updated upstream
 ==========
-<<<<<<< Updated upstream
-Rohan is a independent boy.
-==========
-yesterday he met a girl.
-=======
 she is a independent girl.
->>>>>>> Stashed changes
 ==========
-=======
-
-tina is a independent girl.
-
->>>>>>> Stashed changes
 she met a her father yesterday.
 //
 ************
-************
+***********
