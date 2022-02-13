@@ -1,12 +1,6 @@
-this edit is complete 80%
-============
-HEENA is a independent girl.
-============
-she met a her father yesterday.
-============
-her father is an army officer.
-============
-India is a beautiful country.
+
+//This file is completed 20%....
+
+DHCP: Dynamic Host Configuration Protocol (DHCP) is a client/server protocol that automatically provides       an Internet Protocol (IP) host with its IP address
+DNS:  Domain Name System (DNS) is an Internet service that translates domain names (e.g.,its.umich.edu)       into IP addresses.
 //
-************
-***********
